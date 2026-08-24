@@ -95,7 +95,7 @@ URL : `/admin.php`
 
 ## 👨‍💻 Développé par
 
-**YOUNES OG** — [@younes_og_48](https://www.instagram.com/younes_og_48)
+**YOUNES dev** — [@younesog_](https://www.instagram.com/younesog_)
 
 ---
 
